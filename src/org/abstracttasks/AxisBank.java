@@ -10,6 +10,8 @@ public class AxisBank extends RbiBank {
 		AxisBank n=new AxisBank();
 		n.saving();
 		n.fixed();
+		
+		System.out.println("demo");
 	}
 	
 
